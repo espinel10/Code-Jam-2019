@@ -1,6 +1,6 @@
 # Code-Jam-2019
 Programming Competitive
-<p><b>This is a google CodeJam problems</b></p>
+<p><b>This is a Google CodeJam problems</b></p>
 Each problem you can find in:
 https://codingcompetitions.withgoogle.com/codejam/archive/2019
 
